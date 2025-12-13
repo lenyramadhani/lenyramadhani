@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Halo, Saya Leni!
 
-<!--
-**lenyramadhani/lenyramadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswi Teknik Informatika  
+Universitas Esa Unggul  
 
-Here are some ideas to get you started:
+Saya tertarik pada dunia teknologi, khususnya:
+- Web Development
+- Sistem Informasi
+- Data & IoT (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Keahlian:
+- Bahasa: C++, Python, Java
+- Web: HTML, Bootstrap
+- Tools: VS Code, GitHub
+
+📫 Kontak:
+- Email: setiawan.lenyramadhani@gmail.com
+- Instagram: https://instagram.com/lenirmdh
