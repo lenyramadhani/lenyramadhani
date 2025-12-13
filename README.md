@@ -1,4 +1,4 @@
-👋 Halo, Saya Leni!
+👋 Halo, Saya Leny!
 
 Mahasiswi Teknik Informatika  
 Universitas Esa Unggul  
