@@ -47,6 +47,8 @@ Saya menikmati proses mempelajari teknologi baru dan mengubah ide menjadi **apli
 ![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 
 ---
+## 📊 GitHub Insights
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenyrmdh&layout=compact&theme=dark)
 
 ## 🚀 Sedang Dipelajari
 
