@@ -9,7 +9,7 @@ Mari bertumbuh dan belajar bersama 🚀
 
 ## 🎓 Tentang Saya
 
-🎓 Mahasiswi **Informatika / Computer Science** – **Universitas Esa Unggul**
+Mahasiswi **Informatika / Computer Science** – **Universitas Esa Unggul**
 📍 Tangerang, Indonesia
 💡 Memiliki minat kuat pada **Web Development, Sistem Informasi, dan IoT Dasar**
 
