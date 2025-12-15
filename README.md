@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Leni!
+# 👋 Halo, Saya Leny!
 
 ✨ **Selamat datang di ruang belajar & eksplorasi saya di GitHub** ✨
 Di sini saya mendokumentasikan perjalanan saya di dunia **coding, teknologi, dan kreativitas**, mulai dari proyek kecil hingga pengembangan sistem berbasis web.
@@ -24,14 +24,15 @@ Saya menikmati proses mempelajari teknologi baru dan mengubah ide menjadi **apli
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 ---
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-v5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-v3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-v5-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
@@ -43,7 +44,7 @@ Saya menikmati proses mempelajari teknologi baru dan mengubah ide menjadi **apli
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Navicat](https://img.shields.io/badge/Navicat-Database-2F9ED8?style=for-the-badge\&logo=data\&logoColor=white)
-
+![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 
 ---
 
@@ -52,9 +53,7 @@ Saya menikmati proses mempelajari teknologi baru dan mengubah ide menjadi **apli
 * Laravel & Filament (Web Application)
 * Sistem Informasi Manajemen
 * Data Warehouse & ETL
-* Simulasi IoT
-* Game Development
-
+* Simulasi IoT berbasis Arduino
 
 ---
 
@@ -74,4 +73,4 @@ Saya menikmati proses mempelajari teknologi baru dan mengubah ide menjadi **apli
 ---
 
 > *"Programming is not just code, it's creativity in action."*
-> **— Leni**
+> **— Leny**
